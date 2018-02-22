@@ -5,6 +5,8 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	///dj+12@programmr.com
+	//V7xV.....NfA
 	
 }
 // delete condition
